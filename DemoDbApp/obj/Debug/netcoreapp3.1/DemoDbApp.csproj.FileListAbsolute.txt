@@ -1,0 +1,126 @@
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.exe
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.deps.json
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.runtimeconfig.json
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.runtimeconfig.dev.json
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.pdb
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csprojAssemblyReference.cache
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.AssemblyInfoInputs.cache
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.AssemblyInfo.cs
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csproj.CoreCompileInputs.cache
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.pdb
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.genruntimeconfig.cache
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Lib2.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDb.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDb.pdb
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Lib2.pdb
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csproj.CopyComplete
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDbContext.dll
+E:\Projects\Geran Swarts\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDbContext.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.exe
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.deps.json
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.runtimeconfig.json
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.runtimeconfig.dev.json
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Lib2.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDb.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDbContext.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDbContext.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\MyDb.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Lib2.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csprojAssemblyReference.cache
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.AssemblyInfoInputs.cache
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.AssemblyInfo.cs
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csproj.CoreCompileInputs.cache
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csproj.CopyComplete
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.genruntimeconfig.cache
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.PostGis.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+C:\Users\geran\Desktop\Internship\DemoDb\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.NetTopologySuite.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.exe
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.deps.json
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.runtimeconfig.json
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.runtimeconfig.dev.json
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\DemoDbApp.pdb
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.PostGis.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Npgsql.NetTopologySuite.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\MyDbContext.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\MyDbContext.pdb
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csprojAssemblyReference.cache
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.AssemblyInfoInputs.cache
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.AssemblyInfo.cs
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csproj.CopyComplete
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.pdb
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.genruntimeconfig.cache
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\bin\Debug\netcoreapp3.1\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\DemoDbApp\obj\Debug\netcoreapp3.1\DemoDbApp.csproj.CoreCompileInputs.cache

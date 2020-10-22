@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2860+sqrla/lEZ8Wn/Epiq4ba1FsCJuA5xjgfKiqDh3umRdgDozBdq9l64MrGemB/XYIhoF9J67PmBZvnlUYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geran\\Desktop\\Internship\\DemoDb-before-CLI - Copy\\MyDb\\MyDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geran\\.nuget\\packages\\geoapi.coordinatesystems\\1.7.5\\geoapi.coordinatesystems.1.7.5.nupkg.sha512",
+    "C:\\Users\\geran\\.nuget\\packages\\geoapi.core\\1.7.5\\geoapi.core.1.7.5.nupkg.sha512",
+    "C:\\Users\\geran\\.nuget\\packages\\nettopologysuite\\2.1.0\\nettopologysuite.2.1.0.nupkg.sha512",
+    "C:\\Users\\geran\\.nuget\\packages\\nettopologysuite.coordinatesystems\\1.15.3\\nettopologysuite.coordinatesystems.1.15.3.nupkg.sha512",
+    "C:\\Users\\geran\\.nuget\\packages\\projnet4geoapi\\1.4.1\\projnet4geoapi.1.4.1.nupkg.sha512",
+    "C:\\Users\\geran\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

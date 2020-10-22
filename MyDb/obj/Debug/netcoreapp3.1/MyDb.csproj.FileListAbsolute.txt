@@ -1,0 +1,36 @@
+E:\Projects\Geran Swarts\DemoDb\MyDb\bin\Debug\netcoreapp3.1\MyDb.deps.json
+E:\Projects\Geran Swarts\DemoDb\MyDb\bin\Debug\netcoreapp3.1\MyDb.dll
+E:\Projects\Geran Swarts\DemoDb\MyDb\bin\Debug\netcoreapp3.1\MyDb.pdb
+E:\Projects\Geran Swarts\DemoDb\MyDb\bin\Debug\netcoreapp3.1\Lib2.dll
+E:\Projects\Geran Swarts\DemoDb\MyDb\bin\Debug\netcoreapp3.1\Lib2.pdb
+E:\Projects\Geran Swarts\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.csprojAssemblyReference.cache
+E:\Projects\Geran Swarts\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.AssemblyInfoInputs.cache
+E:\Projects\Geran Swarts\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.AssemblyInfo.cs
+E:\Projects\Geran Swarts\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.csproj.CoreCompileInputs.cache
+E:\Projects\Geran Swarts\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.csproj.CopyComplete
+E:\Projects\Geran Swarts\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.dll
+E:\Projects\Geran Swarts\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\bin\Debug\netcoreapp3.1\MyDb.deps.json
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\bin\Debug\netcoreapp3.1\MyDb.dll
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\bin\Debug\netcoreapp3.1\MyDb.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\bin\Debug\netcoreapp3.1\Lib2.dll
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\bin\Debug\netcoreapp3.1\Lib2.pdb
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.csprojAssemblyReference.cache
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.AssemblyInfoInputs.cache
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.AssemblyInfo.cs
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.csproj.CoreCompileInputs.cache
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.csproj.CopyComplete
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.dll
+C:\Users\geran\Desktop\Internship\DemoDb\MyDb\obj\Debug\netcoreapp3.1\MyDb.pdb
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\bin\Debug\netcoreapp3.1\MyDb.deps.json
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\bin\Debug\netcoreapp3.1\MyDb.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\bin\Debug\netcoreapp3.1\MyDb.pdb
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\bin\Debug\netcoreapp3.1\Lib2.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\bin\Debug\netcoreapp3.1\Lib2.pdb
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\obj\Debug\netcoreapp3.1\MyDb.csprojAssemblyReference.cache
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\obj\Debug\netcoreapp3.1\MyDb.AssemblyInfoInputs.cache
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\obj\Debug\netcoreapp3.1\MyDb.AssemblyInfo.cs
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\obj\Debug\netcoreapp3.1\MyDb.csproj.CoreCompileInputs.cache
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\obj\Debug\netcoreapp3.1\MyDb.csproj.CopyComplete
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\obj\Debug\netcoreapp3.1\MyDb.dll
+C:\Users\geran\Desktop\Internship\DemoDb-before-CLI - Copy\MyDb\obj\Debug\netcoreapp3.1\MyDb.pdb
