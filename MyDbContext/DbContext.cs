@@ -9,7 +9,6 @@ namespace MyDbContext
     {
         private string connection = "Host=localhost;Port=5433;Database=Prototype_Events;Username=postgres;Password=simplepassword";
 
-        public virtual DbSet<User> User { get; set; }
         public virtual DbSet<Events> Events { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -22,8 +21,6 @@ namespace MyDbContext
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {           
-            modelBuilder = new UserMapping(modelBuilder).ModelConfiguration;
-            OnModelCreatingPartial(modelBuilder);
             modelBuilder = new EventsMapping(modelBuilder).ModelConfiguration;
             OnModelCreatingPartial(modelBuilder);
             //Cast the column "Location" from geometry type to geography type to perform distance calculations
