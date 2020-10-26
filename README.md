@@ -13,6 +13,7 @@ Then configure and change your connection string to your specifications of the d
 ~~~c#
 private string connection = "Host=localhost;Port=5433;Database=Prototype_Events;Username=postgres;Password=simplepassword";
 ~~~
+_**Non-disclaimer**:Hardcoding your connection string in code is not best practice. This has been done for simplicity and pure to ease the creation of a demo app. When creating applications in line with best practices, the connection string should be load at run-time from app.config or app.settings._
 
 Then change the mapping of your table name in the EventsMapping.cs file to your table name in the following line of code
 ~~~c#
